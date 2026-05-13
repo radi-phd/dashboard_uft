@@ -1,0 +1,7 @@
+@echo off
+
+cd /d %~dp0
+
+py -m streamlit run dashboard.py
+
+pause
