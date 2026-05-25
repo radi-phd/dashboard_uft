@@ -15,7 +15,7 @@ import os
 # ============================================================
 
 st.set_page_config(
-    page_title="Painel Analítico UFT",
+    page_title="Painel Analítico NAEGD - UFT",
     page_icon="🎓",
     layout="wide"
 )
